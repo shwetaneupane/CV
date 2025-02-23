@@ -4,7 +4,7 @@
   text-align: left;
   margin: 30px auto;
   padding-bottom: 20px;
-  background-color: rgb(114, 233, 90);
+  background-color:pink 
   font-size:20px;
 box-shadow: 10px 10px 15px;
 }
@@ -18,11 +18,11 @@ width:150px;}
 .another{
 text-align:center;}
 body{
-background-color: rgb(148, 91, 89);
+background-color:aqua; 
 }
 ul{
           display: flex;
-          background-color: #ffffff;
+          background-color:lavender;
           color:#000;
           list-style-type: none;
           justify-content: space-around;
